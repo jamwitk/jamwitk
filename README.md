@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [cmeo.dev/game-portfolio](https://cmeo.dev/game-portfolio)
 - I develop games using Unity and C# and work on other projects with Golang, React, and TypeScript.
 
-- 📫 How to reach me **contact@cmeo.dev**
+- 📫 How to reach me **contact[at]cmeo.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
